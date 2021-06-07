@@ -1,2 +1,5 @@
 Atualize o repositório local com base no repositório remoto 
 ❏ git pull (atualiza arquivos em relação à branch atual)
+
+
+outro?

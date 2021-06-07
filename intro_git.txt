@@ -10,3 +10,5 @@ repositórios remotos)
 ❏ git remote rm nome_git (desvincula um repositório remoto)
 ❏ git push -u origin main (o envio para o repositório deve conter seu nome 
 e branch
+
+outro?
