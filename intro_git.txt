@@ -11,3 +11,5 @@ repositórios remotos)
 ❏ git push -u origin main (o envio para o repositório deve conter seu nome 
 e branch
 ❏ git pull origin main
+outro?
+
